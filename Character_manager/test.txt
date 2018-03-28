@@ -1,0 +1,14 @@
+effets / compétences / armes / armures
+casque / plastron / mains / bottes
+epee 1m/ epee 2m / arc court / arc long / dague / baton / masse 1m/ masse 2m / hache 1m / hache 1m
+
+
+baseFrames -> ('topBase', fr_top), ('leftBase', fr_left), ('rightBase', fr_right), ('bottomBase', fr_bottom), ('centerBase', fr_center)
+
+leftWidgets   -> ('delSetup', fr_del_setup)
+topWidgets    -> ('lbSetupName', lb_setup_name), ('lbtnNPCS', lbtn_npcs), ('lbtnPLAYERS', lbtn_players), ('lbtnENEMIES', lbtn_enemies)
+bottomWidgets -> ('lbtnEffects', lbtn_effects), ('lbtnSkills', lbtn_skills), ('lbtnWeapons', lbtn_weapons), ('lbtnArmors', lbtn_armors)
+
+loadedFrames -> ('leftLoaded', leftWidgets), ('topLoaded', topWidgets), ('bottomLoaded', bottomWidgets)
+
+allFrames('base', baseFrames), ('loaded', loadedFrames)

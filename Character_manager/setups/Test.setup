@@ -1,0 +1,39 @@
+##########################################################################
+######################## FORMATAGE DES LIGNES ############################
+##########################################################################
+### MENU                                                               ###
+### NOM                                                                ###
+### RACE                                                               ###
+### CLASSE                                                             ###
+### FORCE ACTUELLE                                                     ###
+### FORCE MAX                                                          ###
+### CONSTITUTION ACTUELLE                                              ###
+### CONSTITUTION MAX                                                   ###
+### DEXTERITE ACTUELLE                                                 ###
+### DEXTERITE MAX                                                      ###
+### INTELLIGENCE ACTUELLE                                              ###
+### INTELLIGENCE MAX                                                   ###                                              
+### PERCEPTION ACTUELLE                                                ###
+### PERCEPTION MAX                                                     ###
+### CHARISME ACTUEL                                                    ###
+### CHARISME MAX      						       ###
+### PLAFOND DES STATS                                                  ###
+### SANTE ACTUELLE                                                     ###
+### SANTE MAX                                                          ###
+### MANA ACTUELLE                                                      ###
+### MANA MAX                                                           ###
+### VALEUR ARMURE ACTUELLE                                             ###
+### VALEUR ARMURE MAX                                                  ###
+### ARME 1 || ARME 2                                                   ###
+### TRINKETS (AMULETTES, BAGUES, BRACELETS, COLLIERS, ...)    ||       ###
+### CASQUE                                                             ###
+### TORSE                                                              ###
+### MAINS                                                              ###
+### PIEDS                                                              ###
+### DESCRIPTION							       ###    
+##########################################################################
+##########################################################################
+
+
+PLAYER;Gertude_Massargent;Nain;Guerrier;70;70;80;80;25;25;15;15;20;20;45;45;100;80;80;0;0;5;5;Masse_en_argent||Targe;Aucun;Casque_en_fer;Torse_en_fer;Gants_en_fer;Jambes_en_fer;Gertrude est une naine dont la seule motivation est TAPEEEEEEEER (ca et le mythril).;
+PLAYER;Raziel;Elfe_sylvain;Trappeur;20;20;40;40;75;75;20;20;80;80;20;20;100;40;40;0;0;3;3;Arc_court||Aucune;Aucun;Casque_en_cuir;Torse_en_cuir;Gantelets_de_cuir;Jambes_en_cuir;Raziel est elfe sylvain élevé au milieu des loups. Sa fourberie n'a d'égal que son inventivité.;
